@@ -1,0 +1,48 @@
+body {
+  background-color: rgb(242, 221, 194);
+}
+h1 {
+  color: rgb(51, 20, 94);
+  text-align: center;
+}
+h4 {
+  color: rgb(101, 76, 135);
+  text-align: center;
+}
+h2 {
+  color: rgb(87, 7, 71);
+  text-align: center;
+  }
+.timeline {
+  color: rgb(92, 5, 6);
+  text-align: center; 
+  }
+.bio {
+  text-align: center;
+  color: rgb(105, 1, 99)
+}
+#rightpic {
+  height: 300px;
+  width: 300px;
+  float: right;
+}
+#leftpic {
+  height: 300px;
+  width: 300px;
+  float: left;
+ }
+  
+.things {
+  color: red;
+}
+
+.otherthings {
+  color: blue;
+  float: right;
+}
+form {
+text-align: right;
+}
+placeholder {
+  text-align: right;
+  }
