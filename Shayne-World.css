@@ -5,11 +5,11 @@ h1 {
   color: rgb(51, 20, 94);
   text-align: center;
 }
-h4 {
+h2 {
   color: rgb(101, 76, 135);
   text-align: center;
 }
-h2 {
+h3 {
   color: rgb(87, 7, 71);
   text-align: center;
   }
@@ -25,24 +25,29 @@ h2 {
   height: 300px;
   width: 300px;
   float: right;
+  margin-bottom: -20px;
 }
 #leftpic {
   height: 300px;
   width: 300px;
   float: left;
+  margin-bottom: -10px;
  }
   
 .things {
   color: red;
+  float: left;
+  
 }
 
 .otherthings {
   color: blue;
   float: right;
+  
 }
 form {
-text-align: right;
+text-align: center;
 }
-placeholder {
-  text-align: right;
+.placeholder {
+  text-align: center;
   }
